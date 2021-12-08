@@ -94,3 +94,22 @@ for (var i = 0; i < enemyNames.length; i++) {
     break;
   }
 }
+
+var shop = function () {
+  //ask player if they want to "refill" health, "upgrade attack," or "leave shop" i.e window prompt
+}
+
+var startGame = function() {
+  //ask player if they want to fight or skip the fight
+  //at the end of defeating robot ask player if they want to fight or go to shop
+  //if player skips ask if they would like to go to shop
+
+}
+
+
+function endGame()
+// also can be  written as var endGame = function()
+//when player defeated or no more enemies to fight
+//window alert that the player has lost if defeated
+//window alert with players total stata
+//window asking player if they would like to play again
